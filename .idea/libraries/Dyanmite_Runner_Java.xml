@@ -4,6 +4,8 @@
       <root url="jar://$PROJECT_DIR$/lib/Dyanmite-Runner-Java.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Dyanmite-Runner-Java.jar!/" />
+    </SOURCES>
   </library>
 </component>
